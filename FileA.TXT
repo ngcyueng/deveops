@@ -1,6 +1,6 @@
-tHIS IS fILEa
+This is fileA
 <<<<<<< HEAD
-This is a change to the file
+This is a change to the file verson 1
 =======
-This is a change to the fILE
+This is a change to the fILE version 2
 >>>>>>> FeatureA
